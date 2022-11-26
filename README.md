@@ -17,7 +17,7 @@ Currently there is only one global variable for the stack and that is:
 
 At a later time, I'd like to be able to add multiple stack variables. For now one will do.
 
-I haven't ran into any issues using this as of yet. If you do use this and run into issues please let me know and I will try to address them.
+I haven't run into any issues using this as of yet. If you do use this and run into issues please let me know and I will try to address them.
 
 # Shoutout
 
