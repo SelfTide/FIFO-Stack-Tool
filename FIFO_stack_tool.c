@@ -50,6 +50,7 @@ void *pop_stack( void )
 {
 	void *data;
 	stack *t = p;
+	
 	if(t)
 	{
 		if(!p)
